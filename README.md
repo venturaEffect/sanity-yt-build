@@ -30,7 +30,7 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## To run it write npm run dev
 
-## Got o inside sanityyoutube file and write on terminal sanity start
+## Got inside sanityyoutube file and write on terminal sanity start
 
 ## To see how it looks go: https://medium-final-clone.sanity.studio
 
